@@ -17,17 +17,6 @@
 
 ---
 
-## 🚀 Projects
-
-| Project | Stack | Links |
-|---|---|---|
-| **Social Media Microservices** | Express.js, MongoDB, Redis, RabbitMQ, Docker | [GitHub](#) |
-| **CareerNest – Placement & Internship Portal** | JavaScript, Nest.js, MongoDB | [GitHub](#) |
-| **MessBuddy – Smart Mess Management** | MERN Stack | [GitHub](#) · [Live](#) |
-| **Movie Recommender System** | Python, Scikit-learn, NLTK, Streamlit | [GitHub](#) · [Live](#) |
-
----
-
 ## 💻 Tech Stack
 
 **Languages**
