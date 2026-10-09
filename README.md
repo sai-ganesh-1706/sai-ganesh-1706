@@ -1,8 +1,8 @@
+
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Saiganesh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20DevOps%20%C2%B7%20AI-Powered%20Dev%20Tools&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Saiganesh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Backend%20Systems%20%C2%B7%20Distributed%20Systems&descAlignY=60&descSize=20" width="100%" />
 </p>
-
 
 <!-- Typing animation -->
 <p align="center">
