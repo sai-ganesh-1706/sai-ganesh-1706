@@ -83,7 +83,7 @@ const saiganesh = {
       5 decoupled services behind an API gateway, JWT with rotating refresh tokens, Argon2, and Redis rate limiting.
       <br/><br/>
       ⚡ <b>200 ms → 60 ms</b> read latency<br/>
-      <a href="https://github.com/sai-ganesh-1706/REPO_NAME">View repo →</a>
+      <a href="https://github.com/sai-ganesh-1706/SOCIAL-MEDIA-MICROSERVICES">View repo →</a>
     </td>
     <td width="50%" valign="top">
       <h3>⌨️ CodeSyncro</h3>
@@ -94,7 +94,7 @@ const saiganesh = {
       Real-time collaborative editor with a sandboxed execution pipeline and a Groq AI assistant for debugging.
       <br/><br/>
       🔥 <b>50+ users</b>, sub-100ms sync, 5 languages<br/>
-      <a href="https://github.com/sai-ganesh-1706/REPO_NAME">View repo →</a>
+      <a href="https://github.com/sai-ganesh-1706/CodeSyncro">View repo →</a>
     </td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ const saiganesh = {
       GitHub App that reviews PRs with an LLM and posts inline comments, using HMAC-verified webhooks and diff-aware line mapping.
       <br/><br/>
       🧠 Webhook → Diff → Groq → Inline review<br/>
-      <a href="https://github.com/sai-ganesh-1706/REPO_NAME">View repo →</a>
+      <a href="https://github.com/sai-ganesh-1706/AICodeReview">View repo →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 CareerNest</h3>
@@ -118,7 +118,7 @@ const saiganesh = {
       Placement and internship portal built by a team of 6 under agile workflows, with role-based access control.
       <br/><br/>
       👥 <b>25+ APIs</b>, 4 user roles, team lead<br/>
-      <a href="https://github.com/sai-ganesh-1706/REPO_NAME">View repo →</a>
+      <a href="https://github.com/IIIT-Sricity-FSD-2024-2028/5_CareerNest">View repo →</a>
     </td>
   </tr>
 </table>
@@ -136,17 +136,20 @@ const saiganesh = {
   <img src="https://streak-stats.demolab.com?user=sai-ganesh-1706&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
-
-
 ---
+
 
 
 
 ## 🤝 Let's Connect
 
+<!-- Contact & Collaboration -->
 <p align="center">
-  <i>Open to internships and collaborations on backend, DevOps, and AI-powered tooling.</i><br/><br/>
-  <a href="mailto:saiganesh.b24@iiits.in"><img src="https://img.shields.io/badge/Say%20Hello-00f5a0?style=for-the-badge&logo=maildotru&logoColor=black" /></a>
+  <i>Open to SDE internships and collaborations in software engineering, scalable backend systems, and distributed applications.</i>
+  <br/><br/>
+  <a href="mailto:saiganesh.b24@iiits.in">
+    <img src="https://img.shields.io/badge/Let's%20Connect-00f5a0?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
