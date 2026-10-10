@@ -13,11 +13,22 @@
 
 
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sai-ganesh-bangaru-2a9760355"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/saiganesh_1706/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:saiganesh.b24@iiits.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sai-ganesh-bangaru-2a9760355">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/saiganesh_1706/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:saiganesh.b24@iiits.in">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://3d-portfolio-six-gray.vercel.app/">
+    <img src="https://img.shields.io/badge/3D%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
@@ -144,14 +155,14 @@ const saiganesh = {
 ## 🤝 Let's Connect
 
 <!-- Contact & Collaboration -->
+
 <p align="center">
   <i>Open to SDE internships and collaborations in software engineering, scalable backend systems, and distributed applications.</i>
   <br/><br/>
+  <a href="https://3d-portfolio-six-gray.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:saiganesh.b24@iiits.in">
     <img src="https://img.shields.io/badge/Let's%20Connect-00f5a0?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" />
 </p>
